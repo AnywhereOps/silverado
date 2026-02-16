@@ -1,0 +1,36 @@
+AnywhereOps Source Available License v1.0
+
+Copyright (c) 2024-2026, AnywhereOps
+
+PERSONAL USE: Free. Use it, learn from it, build with it for yourself.
+
+COMMERCIAL USE: Requires a separate license agreement with AnywhereOps.
+Any use of this software for commercial purposes, including incorporating
+it into a product or service sold for profit, requires prior written
+agreement with AnywhereOps.
+
+STARTUP AND SMALL BUSINESS PROGRAM: Startups and small businesses may
+apply for access to the full AnywhereOps ecosystem in exchange for 7%
+equity. Terms negotiated per engagement.
+
+NON-PROFIT PROGRAM: Non-profit organizations may apply for discounted
+commercial licensing. Contact for details.
+
+COEF FRAMEWORK: The Compressed Observation-Execution Framework (COEF),
+including but not limited to the DNS content-addressable store, the
+instruction language, and the executor, is core intellectual property of
+AnywhereOps. Any derivative work that incorporates COEF concepts, patterns,
+or implementations is subject to the terms of this license.
+
+ATTRIBUTION: All copies, forks, and derivative works must retain the
+AnywhereOps copyright notice and link to the original repository.
+
+Contact: founders@anywhereops.ai
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
